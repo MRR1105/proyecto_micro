@@ -14,3 +14,6 @@ Blibliotecas Arduino:
   Adafruit sensor
     https://github.com/adafruit/Adafruit_Sensor
     
+##PASOS
+  Instalar la raspberry
+  
